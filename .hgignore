@@ -1,0 +1,10 @@
+syntax: glob
+*.o
+*~
+*.so
+*.dll
+*.dylib
+*.pyc
+*.bak
+*.orig
+.tests
